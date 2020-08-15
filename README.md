@@ -1,2 +1,2 @@
 # active-learning
-ML Assignment #2
+Implementation of active learning techniques in Python.
